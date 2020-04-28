@@ -1,6 +1,6 @@
 # SI4432 Pinout
 
-![SI4432 Pinout](si44322.jpg)
+![SI4432 Pinout](https://github.com/Zelgius0880/SI4432KotlinHAL/blob/master/Si44322.jpg)
 
 | Number | Pins |Description |
 |--------|------|------------|
