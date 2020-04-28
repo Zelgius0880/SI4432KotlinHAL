@@ -1,6 +1,6 @@
-#SI4432 Pinout
+# SI4432 Pinout
 
-![SI4432 Pinout](si44322.png?raw=true)
+![SI4432 Pinout](si44322.jpg)
 
 | Number | Pins |Description |
 |--------|------|------------|
